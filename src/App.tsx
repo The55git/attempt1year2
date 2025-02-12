@@ -44,7 +44,7 @@ function App() {
 
             <div className="text-container">
               <span style={{ fontWeight: "bold", fontStyle: "italic" }}>
-                Have a great day, beb!
+                Have a great day, beb! :D
               </span>
             </div>
           </>
